@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5760'
     url: http://www.gutenberg.org/2009/agents/5760
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32248#The-Standard-Cantatas--Their-Stories-Their-Music-and-Their-Composers--13-A-Handbook
 gutenberg_issued: '2010-05-04'
 gutenberg_type: Text
 identifiers:
