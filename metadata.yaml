@@ -1,0 +1,29 @@
+_repo: The-Standard-Cantatas--Their-Stories-Their-Music-and-Their-Composers--13-A-Handbook_32248
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Upton, George P. (George Putnam)
+    alias: Upton, George Putnam
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '5760'
+    url: http://www.gutenberg.org/2009/agents/5760
+description: ''
+gutenberg_issued: '2010-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32248'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcc 'MT'
+- !lcsh 'Cantatas -- History and criticism'
+title: "The Standard Cantatas: Their Stories, Their Music, and Their Composers\r\n\
+  A Handbook"
+url: http://www.gutenberg.org/ebooks/32248
